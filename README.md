@@ -19,7 +19,7 @@ A: Ethereum had the highest positive score.
 We have created Word Clud to better visualize the current top words trensing for these pouplar two cryptos
 
 ### Bitcoin Word Cloud
-![alt=“”]
+![alt=“”](https://github.com/Ashfaque-Rahman/Tales_from_the_Crypto/blob/main/Word_Cloud/btc_wc.JPG)
 
 ### Ethereum Word Cloud
-![alt=“”]
+![alt=“”](https://github.com/Ashfaque-Rahman/Tales_from_the_Crypto/blob/main/Word_Cloud/eth_wc.JPG)
